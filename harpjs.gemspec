@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Harpjs::VERSION
   spec.authors       = ["Daniel Moore"]
   spec.email         = ["yahivin@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{ Simple HTML5 audio wrappers }
+  spec.summary       = %q{ Simple HTML5 audio wrappers }
   spec.homepage      = ""
   spec.license       = "MIT"
 
